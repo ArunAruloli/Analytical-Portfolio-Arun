@@ -1,6 +1,6 @@
 # Analytics Portfolio — Arun Aruloli
 
-Chicago-based analyst (SQL • Power BI) with underwriting + marketing analytics + marketing experience.
+Chicago-based analyst (SQL • Power BI) with underwriting + marketing analytics + marketing experience + syndicated loan experience.
 
 ## What’s inside
 - Power BI: Underwriting Ops Dashboard (PDF)
