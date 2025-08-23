@@ -19,7 +19,7 @@ PDF: [POWERBI Underwriting Dashboard.pdf]
 
 
 ## Syndicated Loan Portfolio
-Example work on how a day to day basis as a specialist would work which includes formulas and possible scenarios on a day to day basis.
+Example work on how a day to day basis as a specialist would work which includes formulas and possible scenarios.
 
 ## Links
 - LinkedIn: <https://www.linkedin.com/in/arun-aruloli-46a4a123b/> • Email: <thanga.aruloli2001@gmail.com>
